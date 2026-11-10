@@ -1,0 +1,15 @@
+{
+  "name": "zhibo-hub",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "智播中枢 · 面向直播电商的分布式多智能体全流程运营平台",
+  "scripts": {
+    "start": "node server.mjs",
+    "dev": "node --watch server.mjs",
+    "test": "node --test test/*.test.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,18 @@
+# LLM 配置文件（含 API Key，切勿提交）
+llm_config.json
+python/llm_config.json
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# 临时文件
+*.log
+*.tmp
